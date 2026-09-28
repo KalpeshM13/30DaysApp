@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">30 Days App</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+
+    <string name="title1">Set Clear Goals</string>
+    <string name="description1">Choose specific, measurable fitness goals such as improving strength, endurance, mobility, or body composition.</string>
+
+    <string name="title2">Stay Consistent</string>
+    <string name="description2">Follow a regular workout routine instead of relying on occasional intense sessions.</string>
+
+    <string name="title3">Start Gradually</string>
+    <string name="description3">Increase workout intensity, duration, or volume progressively to give your body time to adapt.</string>
+
+    <string name="title4">Warm Up</string>
+    <string name="description4">Spend 5–10 minutes warming up with light activity and dynamic movements before exercising.</string>
+
+    <string name="title5">Prioritize Strength Training</string>
+    <string name="description5">Include resistance exercises regularly to build and maintain muscle strength and function.</string>
+
+    <string name="title6">Train Your Cardio</string>
+    <string name="description6">Include activities such as walking, cycling, swimming, or running to improve cardiovascular fitness.</string>
+
+    <string name="title7">Use Proper Form</string>
+    <string name="description7">Perform exercises with controlled technique and appropriate range of motion rather than chasing heavier weights.</string>
+
+    <string name="title8">Progress Over Time</string>
+    <string name="description8">Gradually increase resistance, repetitions, distance, or training difficulty as your fitness improves.</string>
+
+    <string name="title9">Train All Major Muscles</string>
+    <string name="description9">Build a balanced routine that works your legs, hips, back, chest, shoulders, arms, and core.</string>
+
+    <string name="title10">Include Mobility Work</string>
+    <string name="description10">Regularly practice movements that maintain or improve joint mobility and flexibility.</string>
+
+    <string name="title11">Strengthen Your Core</string>
+    <string name="description11">Use exercises such as planks, dead bugs, carries, and controlled abdominal movements to train your core.</string>
+
+    <string name="title12">Stay Hydrated</string>
+    <string name="description12">Drink fluids regularly throughout the day and increase intake when exercise or heat causes greater fluid loss.</string>
+
+    <string name="title13">Eat Enough Protein</string>
+    <string name="description13">Include protein-rich foods such as eggs, dairy, legumes, fish, meat, soy, or other suitable sources in your diet.</string>
+
+    <string name="title14">Eat Nutrient-Dense Foods</string>
+    <string name="description14">Build most meals around vegetables, fruits, whole grains, protein sources, and healthy fats.</string>
+
+    <string name="title15">Get Enough Sleep</string>
+    <string name="description15">Aim for consistent, sufficient sleep because recovery and physical performance depend heavily on good sleep.</string>
+
+    <string name="title16">Schedule Recovery</string>
+    <string name="description16">Allow adequate recovery between demanding workouts and avoid training the same muscles intensely without sufficient rest.</string>
+
+    <string name="title17">Walk More</string>
+    <string name="description17">Increase everyday movement by walking during breaks, using stairs when practical, and reducing prolonged sitting.</string>
+
+    <string name="title18">Track Your Progress</string>
+    <string name="description18">Record workouts, repetitions, weights, distances, or other relevant measures so you can identify progress over time.</string>
+
+    <string name="title19">Keep Workouts Enjoyable</string>
+    <string name="description19">Choose activities you genuinely enjoy because enjoyable exercise is easier to maintain consistently.</string>
+
+    <string name="title20">Avoid Comparing Yourself</string>
+    <string name="description20">Measure progress against your own previous performance rather than comparing your body or fitness level with others.</string>
+
+    <string name="title21">Listen to Your Body</string>
+    <string name="description21">Pay attention to unusual pain, excessive fatigue, dizziness, or other warning signs and adjust your training accordingly.</string>
+
+    <string name="title22">Use Rest Days</string>
+    <string name="description22">Include easier days or rest days in your weekly routine to support recovery and sustainable training.</string>
+
+    <string name="title23">Practice Good Breathing</string>
+    <string name="description23">Maintain controlled breathing during exercise and avoid unnecessarily holding your breath during ordinary training.</string>
+
+    <string name="title24">Improve Balance</string>
+    <string name="description24">Include balance exercises such as single-leg stands or controlled unilateral movements, especially as part of functional fitness.</string>
+
+    <string name="title25">Train Functional Movements</string>
+    <string name="description25">Include movements such as squatting, hinging, pushing, pulling, carrying, and rotating to develop practical physical capacity.</string>
+
+    <string name="title26">Choose Appropriate Weights</string>
+    <string name="description26">Use resistance that challenges you while allowing you to maintain safe, controlled technique.</string>
+
+    <string name="title27">Limit Sedentary Time</string>
+    <string name="description27">Break up long periods of sitting with short movement breaks throughout the day.</string>
+
+    <string name="title28">Manage Training Intensity</string>
+    <string name="description28">Balance easy, moderate, and challenging workouts instead of making every session maximally intense.</string>
+
+    <string name="title29">Be Patient</string>
+    <string name="description29">Give your body enough time to adapt because meaningful improvements in fitness usually require sustained effort over weeks and months.</string>
+
+    <string name="title30">Make Fitness a Lifestyle</string>
+    <string name="description30">Build sustainable habits around movement, nutrition, sleep, and recovery rather than depending on short-term fitness challenges.</string>
+
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day30">Day 30</string>
+
+</resources>
